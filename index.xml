@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>虹の森</title>
+    <link>https://megucuri.github.io/rainbowforest/</link>
+    <description>Recent content on 虹の森</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <copyright>All rights reserved - 2021</copyright><atom:link href="https://megucuri.github.io/rainbowforest/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>test page</title>
+      <link>https://megucuri.github.io/rainbowforest/test-page/</link>
+      <pubDate>Fri, 16 Jul 2021 15:00:00 +0000</pubDate>
+      
+      <guid>https://megucuri.github.io/rainbowforest/test-page/</guid>
+      <description>Test test this is a test
+images?q=tbn:ANd9GcRVAA4wh6m8SLxGEVvRcnHMkBEex7bHa2dEIA&amp;amp;usqp=CAU
+Did the image show?
+どうですか？？ fjldjflkdf</description>
+    </item>
+    
+  </channel>
+</rss>
